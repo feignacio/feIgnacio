@@ -2,6 +2,7 @@
 <div>
   <h1>Felipe</h1>
 </div>
+<a href="https://github.com/elenaPoblete" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/NnoPiLd.jpg"></a>
 
 **feignacio/feIgnacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
